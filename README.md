@@ -29,12 +29,6 @@ The application features two distinct sections:
 * **CSS3** (Variables, Animations, Flexbox, Grid)
 * **JavaScript** (ES6+, DOM, Fetch API)
 
-## 🔌 APIs Used
-* **Open Trivia DB:** Used to fetch multiple-choice questions for the "Computers" category.
-    * *Endpoint:* `https://opentdb.com/api.php?amount=10&category=18&type=multiple`
-* **DummyJSON:** Used to fetch random quotes.
-    * *Endpoint:* `https://dummyjson.com/quotes/random`
-
 ## 🚀 How to Run
 1.  Clone the repository or download the source code.
 2.  Locate the `program3.html` file.
